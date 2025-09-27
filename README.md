@@ -1,2 +1,2 @@
 # odin-recipes
-This will be a reflection on the project at the end.
+This project was mainly a test of properly using git to track changes. I have already used HTML a lot, but this project helped me practice using boilerplate and simple tags to link pages back and forth. It also made me hungry!
